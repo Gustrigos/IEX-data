@@ -7,7 +7,7 @@ The IEX Group, Inc. operates the Investors Exchange (IEX), a stock exchange regu
 This link goes to IEX's official website: https://iextrading.com/
 This link goes to IEX's API website: https://iextrading.com/developer/
 
-## IEX DATA
+## IEX's API Data
 
 
 
